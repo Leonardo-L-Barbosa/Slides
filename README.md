@@ -1,6 +1,6 @@
 # Slides
 FIAP
-´´´python
+```python
 num1 = int(input("Digite um numero:"))
 num2 = int(input("Digite um numero:"))
 
@@ -13,4 +13,4 @@ else:
         Print(num2 , "É maior que o" , num1)
 
 
-´´´
+```
